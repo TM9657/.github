@@ -1,5 +1,11 @@
 <a href="https://tm9657.de?ref=github"><p align="center"><img width=250 src="https://cdn.tm9657.de/tm9657/images/Logo.png" /></p></a>
-
+<p align="center">
+    <a href="https://tm9657.de"><img src="https://img.shields.io/badge/website-more_from_us-C0222C.svg?style=flat&logo=PWA"> </a>
+	  <a href="https://discord.ca9.io"><img src="https://img.shields.io/discord/673169081704120334?label=discord&style=flat&color=5a66f6&logo=Discord"></a>
+	  <a href="https://twitter.com/tm9657"><img src="https://img.shields.io/badge/twitter-follow_us-1d9bf0.svg?style=flat&logo=Twitter"></a>
+	  <a href="https://www.linkedin.com/company/tm9657/"><img src="https://img.shields.io/badge/linkedin-connect-0a66c2.svg?style=flat&logo=Linkedin"></a>
+    <a href="https://merch.ca9.io"><img src="https://img.shields.io/badge/merch-support_us-red.svg?style=flat&logo=Spreadshirt"></a>
+</p>
 # 🦄⚙️ Building the **Future**!
 ## **Software** & **Game** Development
 We are a software development company specializing in industrial and consumer software solutions. Our expertise includes Game Development, Unreal Engine 5,AI,Software Development (Web and Embedded) and more. With a focus on innovation and quality, we deliver cutting-edge software solutions that meet the needs of businesses and consumers alike.
