@@ -1,4 +1,5 @@
-<a href="https://tm9657.de?ref=github"><p align="center"><img width=250 src="https://cdn.tm9657.de/tm9657/images/Logo.png" /></p></a>
+<a href="https://tm9657.de?ref=github"><p align="center"><img width=250 src="https://avatars.githubusercontent.com/u/129868896?s=400&u=fd69cb393cc3a8296ace9f4ae1ba3b880a694f3d&v=4" /></p></a>
+<br/>
 <p align="center">
     <a href="https://tm9657.de"><img src="https://img.shields.io/badge/website-more_from_us-C0222C.svg?style=flat&logo=PWA"> </a>
 	  <a href="https://discord.ca9.io"><img src="https://img.shields.io/discord/673169081704120334?label=discord&style=flat&color=5a66f6&logo=Discord"></a>
@@ -15,5 +16,6 @@ Contact us today to learn how we can help take your project to the next level.
 
 ## Check out some of our products:
 We offer one Account for all of our products, pay pro once, enjoy pro features for all projects!
-- [Website](https://tm9657.de?ref=github) (Account and Payment Management)
+- [Website](https://good-co.de?ref=github) (Overview)
+- [Buttons](https://buttons.good-co.de?ref=github) (Local First, secure GenAI Suite)
 - [Kwirk.io](https://kwirk.io?ref=github) (Text Editor with AI integration, privacy focus and offline support)
