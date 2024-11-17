@@ -1,7 +1,7 @@
 <a href="https://good-co.de?ref=github"><p align="center"><img width=250 src="https://avatars.githubusercontent.com/u/129868896?s=400&u=fd69cb393cc3a8296ace9f4ae1ba3b880a694f3d&v=4" /></p></a>
 <br/>
 <p align="center">
-    <a href="https://tm9657.de"><img src="https://img.shields.io/badge/website-more_from_us-C0222C.svg?style=flat&logo=PWA"> </a>
+    <a href="https://good-co.de"><img src="https://img.shields.io/badge/website-more_from_us-C0222C.svg?style=flat&logo=PWA"></a>
 	  <a href="https://discord.ca9.io"><img src="https://img.shields.io/discord/673169081704120334?label=discord&style=flat&color=5a66f6&logo=Discord"></a>
 	  <a href="https://x/tm9657"><img src="https://img.shields.io/badge/twitter-follow_us-1d9bf0.svg?style=flat&logo=Twitter"></a>
 	  <a href="https://www.linkedin.com/company/tm9657/"><img src="https://img.shields.io/badge/linkedin-connect-0a66c2.svg?style=flat&logo=Linkedin"></a>
