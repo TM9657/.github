@@ -17,5 +17,5 @@ Contact us today to learn how we can help take your project to the next level.
 ## Check out some of our products:
 We offer one Account for all of our products, pay pro once, enjoy pro features for all projects!
 - [Website](https://good-co.de?ref=github) (Overview)
-- [Buttons](https://buttons.good-co.de?ref=github) (Local First, secure GenAI Suite)
+- [Flow-Like](https://flow-like.com?ref=github) (Visual Scripting)
 - [Kwirk.io](https://kwirk.io?ref=github) (Text Editor with AI integration, privacy focus and offline support)
